@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Waran</h1>
+<h1 align="center">Hi 👋, I'm Sabaris Waran</h1>
 <h3 align="center">Sr. QA Engineer | Automation Enthusiast | Open to SDET/Product QA Roles</h3>
 
 ---
