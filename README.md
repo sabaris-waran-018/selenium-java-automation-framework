@@ -31,6 +31,15 @@ I’m also skilled in **API testing (Postman, RestAssured)**, cross-browser test
 
 ---
 
+### 📜 Certifications
+- ✅ Postman Student Expert
+- ✅ ISTQB - Foundatinal level certificate
+- ✅ EC-Councile - Certified Ethical Hacker
+- ✅ Jira - certification
+- ✅ Jemeter - Performance testing certification
+
+- ---
+
 ### 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sabaris-waran-020b42124/)  
